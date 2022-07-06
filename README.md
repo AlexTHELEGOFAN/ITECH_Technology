@@ -1,2 +1,2 @@
-# ITECH_Technology
-Travail réalisé lors de mon stage de fin de DUT Informatique, chez IDCOM, réalisé en mai 2022.
+# Maquette du site ITECH Technology
+Ce travail consistait à faire l’ensemble des pages d’un site pour la boutique de services informatique ITECH Technology.
